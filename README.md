@@ -4,7 +4,7 @@
 
 TicTacToe game, written in Python. User plays against the computer.
 
-#### ToDo
+## ToDo
 ----------
 - [x] Basic Gameplay
 - [X] 'X' or 'O' Choice
