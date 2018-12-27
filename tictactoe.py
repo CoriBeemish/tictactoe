@@ -1,5 +1,5 @@
 # coding=utf-8
-#tic tac toe
+# Date: December 27th, 2018
 
 import random
 
@@ -18,11 +18,11 @@ def drawBoard(board):
 def printBoard(board):
     # This function prints out the board with numbers.
     print 'The board with numbered locations: '
-    print('     7' + '|' + '8' + '|' + '9')
-    print('     -----')
-    print('     4' + '|' + '5' + '|' + '6')
-    print('     -----')
-    print('     1' + '|' + '2' + '|' + '3')
+    print('7' + '|' + '8' + '|' + '9')
+    print('-----')
+    print('4' + '|' + '5' + '|' + '6')
+    print('-----')
+    print('1' + '|' + '2' + '|' + '3')
 
 
 def getBoardCopy(board):
