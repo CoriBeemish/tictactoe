@@ -5,7 +5,6 @@
 TicTacToe game, written in Python. User plays against the computer.
 
 ## ToDo
-----------
 - [x] Basic Gameplay
 - [X] 'X' or 'O' Choice
 - [ ] Make Tkinter GUI to play tic tac toe
